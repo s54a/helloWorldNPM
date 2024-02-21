@@ -11,8 +11,8 @@
     "url": "git+https://github.com/sninea/helloWorldNPM.git"
   },
   "keywords": [
-    "Hello World NPM",
-    "First Package"
+    "First NPM Package",
+    "Hello World NPM"
   ],
   "author": "Sooraj Gupta",
   "license": "MIT",
