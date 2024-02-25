@@ -2,6 +2,12 @@
 
 This is my first NPM Package it just prints Hello World!!! in console
 
+## Installation
+
+```js
+npm i h8d
+```
+
 ### How to Use
 
 ```js
